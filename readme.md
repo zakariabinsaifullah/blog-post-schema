@@ -1,17 +1,6 @@
-=== Blog Post Schema ===
-Contributors: webackstop, binsaifullah
-Donate link: 
-Tags: blog, post, post schema, schema data
-Requires at least: 4.0
-Tested up to: 5.5.3
-Stable tag: 
-Requires PHP: 5.4
-License: GPLv2 or later
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
-
 Blog Post Schema is a simple, light-weight, powerful plugin that generate schema data structure for each article, blogpost, and breadcrumbs that is active on single post page.
 
-== Description ==
+### Description ###
 
 **Blog Post Schema** is a simple, light-weight, powerful plugin that generate schema data structure for each article, blogpost, and breadcrumbs that is active on single post page.
 
